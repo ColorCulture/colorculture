@@ -1,40 +1,49 @@
-## Hi there 👋
+## 👋 Christopher Hrynczyszyn
+### Product Executive | AI-Native Product Development | Sports, Media & Data Platforms
 
-<!--
-**ColorCulture/colorculture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a product executive with 18+ years of experience building and scaling digital products across sports, media, data, mobile, connected TV, subscriptions and emerging AI experiences.
 
-• 18+ years in product leadership
-• Former VP Product leadership at CBS Sports
-• Former VP Global Data Strategy at Stats Perform
-• Led products across mobile applications, web, OTT/CTV, subscriptions, sports data and AI
-• Managed large product organizations
-• Worked across businesses generating hundreds of millions in revenue
+---
 
-ME
-- 🔭 I’m currently working on Primal Stretch Club. Consumer mobile wellness product combining structured movement content, subscriptions and AI coaching.
-- 🌱 I’m currently learning about leveraging harnesses to improve model cost and performance. 
-- 👯 I’m looking to collaborate on user acquisition strategies running autonomously with agents. 
-- 🤔 I’m looking for help with incremental onboarding, in app purchasing with Revenue Cat, and authentication sequencing following purchase. 
-- 💬 Ask me about FlutterFlow and MCP integration with Codex and Claude. 
-- 📫 How to reach me: https://www.color-culture.com/contact
+## 🚀 What I'm Building
 
-0-1 PROJECTS
-Chief Suite https://chief-suite-hr1u.bolt.host/
-- AI operating assistant concept for business owners and executives.
-Pitch Audio
-- AI-generated sports commentary using structured play-by-play, LLMs and synthetic voice (elevenlabs api)
+### 🎙️ Pitch Audio
 
-HOW I BUILD
+**AI-generated sports commentary**
 
-AI & Intelligence
-LLMs, agents, tool calling, structured outputs, prompt architecture, RAG, multimodal products, evaluations
+Exploring how structured sports data, large language models and synthetic voice can create personalized sports commentary experiences.
 
-Product Development
-Product strategy, prototyping, UX, experimentation, analytics, monetization, subscriptions
+**Product hypothesis:** Sports broadcasts do not need to provide every fan with the same commentary experience.
 
-Modern Build Stack
-Claude Code, Codex, ChatGPT, Bolt, Lovable, FlutterFlow, Firebase, APIs, GitHub, ElevenLabs
+[View Project →](YOUR_GITHUB_REPO_URL)
 
-MY LINKS
-• https://www.linkedin.com/in/christopherhrynczyszyn/
-• https://www.color-culture.com/
+---
+
+## 🧠 Chief Suite
+
+**AI operating assistant for business leaders**
+
+An LLM-based product concept designed to help business owners identify priorities, surface risks and determine actions across the major functions of their businesses.
+
+**Top 0.1% of approximately 20,000 hackathon submissions.**
+
+[View Prototype →](https://chief-suite-hr1u.bolt.host/)
+
+---
+
+## 🛠️ How I Build
+
+**AI & Intelligence**  
+LLMs · Agents · Tool Calling · RAG · Structured Outputs · Evaluations
+
+**Product Development**  
+Product Strategy · Prototyping · UX · Experimentation · Monetization
+
+**Modern Build Stack**  
+Claude Code · Codex · ChatGPT · Bolt · Lovable · FlutterFlow · Firebase · ElevenLabs
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/christopherhrynczyszyn/) · [Portfolio](https://www.color-culture.com/) 
